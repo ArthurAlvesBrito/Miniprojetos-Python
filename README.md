@@ -1,2 +1,2 @@
-# MiniprojetosPython
+# Miniprojetos em Python
  
